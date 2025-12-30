@@ -23,13 +23,7 @@ This project was created as my **first Python project** to strengthen my underst
 
 ---
 
-## 🛠️ Technologies Used
 
-- **Python 3**
-- `random` module
-- `pyttsx4` (Text-to-Speech)
-
----
 
 ## ▶️ How the Game Works
 
@@ -48,23 +42,7 @@ This project was created as my **first Python project** to strengthen my underst
 
 ---
 
-## 🚀 How to Run the Project
 
-1. Make sure **Python 3** is installed on your system.
-2. Install the required library:
-   pip install pyttsx4
-3. Clone the repository or download the code.
-4. Run the Python file:
-   project1.py
-## 📚 What I Learned
-
-- Handling user input in Python  
-- Using dictionaries for decision mapping  
-- Implementing conditional logic  
-- Working with external libraries  
-- Building an interactive terminal-based application  
-
----
 
 ## 🌱 Future Improvements
 
@@ -78,3 +56,8 @@ This project was created as my **first Python project** to strengthen my underst
 ## 🙌 Acknowledgements
 
 This project was built as part of my learning journey in Python programming.
+
+
+## This Discription is Ai- genrated.
+
+##if you like this project share your feedback.
